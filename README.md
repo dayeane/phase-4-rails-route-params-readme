@@ -5,7 +5,7 @@
 - Create a dynamic route
 - Use route parameters in the controller via the params hash
 
-## Setup
+## Setup 
 
 Fork and clone this repo, then run:
 
